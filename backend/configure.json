@@ -117,25 +117,6 @@
       }
     },
     {
-      "id": "5",
-      "trigger": {
-        "type": "externalData",
-        "apiName": "CurrencyApi",
-        "key": "exchangeRate",
-        "condition": "equals",
-        "value": "55454"
-      },
-      "action": {
-        "deviceType": "On/Off plug-in unit",
-        "deviceId": "2",
-        "state": {
-          "on": true,
-          "bri": 0,
-          "hue": 0
-        }
-      }
-    },
-    {
       "id": "6",
       "trigger": {
         "type": "externalData",

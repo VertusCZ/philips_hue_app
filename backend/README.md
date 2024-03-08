@@ -7,6 +7,7 @@ Welcome to our Node.js backend application.
 To get started, follow these steps:
 
 ```bash
+ cd ./backend
  npm install
 
 ```
